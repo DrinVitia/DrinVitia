@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrinVitia
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript, PHP, react, express
+- 🌱 I’m currently learning Java, JavaScript, PHP, React, express, SQL
 - 💞️ I’m looking to collaborate on JavaScript projects
 - 📫 How to reach me drinvitia12@gmail.com
 
